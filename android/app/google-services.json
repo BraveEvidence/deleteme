@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "11677086499",
+    "firebase_url": "https://flutter-crashlytics.firebaseio.com",
+    "project_id": "flutter-crashlytics",
+    "storage_bucket": "flutter-crashlytics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11677086499:android:8d8b8eda043e8e48",
+        "android_client_info": {
+          "package_name": "com.upetch.firebase_crashltics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11677086499-vgoh0stmbjcuoe3cd6terbfr9ecpamo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3C6eUqAya7yTbpMxb3WBPCEsU-4HPGys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11677086499-vgoh0stmbjcuoe3cd6terbfr9ecpamo4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
